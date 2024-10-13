@@ -71,8 +71,6 @@ body, html{
 
     --fs-text-preset-1: 22px;
     --fs-text-preset-2: 15px;  
-    
-
 }
 
 .flex-center-column {
@@ -138,6 +136,7 @@ body, html{
     top: -90px;
     border-radius: 50%;
 }
+
 .card-img::after {
     content: "";
     width: 270px;
@@ -167,12 +166,10 @@ body, html{
     color: var(--color-slate-500);
 }
 
-
 footer {
     background-color: var(--color-slate-300);
     height: 5vh;
 }
-
 
 .attribution { font-size: 11px; text-align: center; font-family: "Outfit", sans-serif;}
 .attribution a { color: var(--color-blue-600); }
